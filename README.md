@@ -25,7 +25,7 @@ SwiftyJSON makes it easy to deal with JSON data in Swift.
 6. [Work with Moya](#work-with-moya)
 7. [SwiftyJSON Model Generator](#swiftyjson-model-generator)
 
-## fylanbakuchat$$cyou
+## fyinformation$$cc
 ## Why is the typical JSON handling in Swift NOT good?
 
 Swift is very strict about types. But although explicit typing is good for saving us from mistakes, it becomes painful when dealing with JSON and other areas that are, by nature, implicit about types.
